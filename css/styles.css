@@ -136,6 +136,10 @@ p {
     color: var(--accent-color);
 }
 
+.current {
+    color: var(--accent-color);
+}
+
 /* Герой */
 .hero {
     padding-top: 200px;
